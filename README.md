@@ -14,9 +14,9 @@ For a video walkthrough of the commands: https://www.youtube.com/watch?v=ua_I30D
 
 # How To Start
 On the server (connection info in Discord), once you connect you'll enable practice mode by typing the following in chat:
-* .prac
-* .nades
-* .god
+* ```.prac```
+* ```.nades```
+* ```.god```
 
 *I also recommend setting a noclip bind in your Console, just type "bind q noclip" and use noclip to move around.* 
 
