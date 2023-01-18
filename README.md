@@ -8,6 +8,7 @@ This is meant to allow us to:
 * A way to practice nade lineups at any time
 
 For all the commands that can be used on the server: https://github.com/splewis/csgo-practice-mode#commands
+
 For a video walkthrough of the commands: https://www.youtube.com/watch?v=ua_I30DTggQ 
 
 # How To Start
