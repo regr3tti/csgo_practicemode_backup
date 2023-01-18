@@ -21,6 +21,7 @@ On the server (connection info in Discord), once you connect you'll enable pract
 *I also recommend setting a noclip bind in your Console, just type "bind q noclip" and use noclip to move around.* 
 
 ## Please Note:
+* All the nades I added have a written description, you don't need to learn all the naming codes explained in the image below.
 * Nades are saved to your profile, add whatever you nades want whenever you want and name them whatever you want, it won't mess up anything for anyone else.
 * Example Jumpthrow and RunJumpthrow Binds are at the bottom at this page, if you don't have them already.
 * If you think a nade should or shouldn't be "Default" (Nades we should all know), then just let me know.
