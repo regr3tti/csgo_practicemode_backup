@@ -1,8 +1,14 @@
 # Purpose
+This Doc's purpose is to:
+* Tell you what you need to know to find nades to practice. 
+
 This is meant to allow us to:
 * Share nades easily
 * Agree on which nades we want to know at minimum for each map
 * A way to practice nade lineups at any time
+
+For all the commands that can be used on the server: https://github.com/splewis/csgo-practice-mode#commands
+For a video walkthrough of the commands: https://www.youtube.com/watch?v=ua_I30DTggQ 
 
 # How To Start
 On the server (connection info in Discord), once you connect you'll enable practice mode by typing the following in chat:
