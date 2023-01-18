@@ -1,6 +1,7 @@
 # Purpose
 This Doc's purpose is to:
 * Tell you what you need to know to find nades to practice. 
+* Give you the minimum amount of info to use the Practice server.
 
 This is meant to allow us to:
 * Share nades easily
